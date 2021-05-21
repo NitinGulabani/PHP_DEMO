@@ -32,7 +32,7 @@
                     <table class="table table-striped">
                         <thead>
                             <tr>
-                                <th>Id</th>
+                                <th>ID</th>
                                 <th>Full Name</th>
                                 <th>Email</th>
                                 <th>Password</th>
